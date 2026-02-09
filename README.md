@@ -152,11 +152,11 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2026Feb08.png" alt="アクセス用QRコード" width="100">QR for Access</p>
+<p align="left"> <img src="QR_2026Feb09.png" alt="アクセス用QRコード" width="100">QR for Access</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/02/07、朝焼けから鳥とお花、いつもの温泉の夕暮れから星空まで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/02/08、朝焼けから鳥とお花、いつもの温泉の夕暮れから星空まで !!!</marquee></span></h1>
 
 
 
